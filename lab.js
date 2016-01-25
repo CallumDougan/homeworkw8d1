@@ -244,7 +244,7 @@ animals.concat("cat")
 //5.5. Add an item to the start of the array
 animals.push("brick");
 //5.6. Assign the index of hedgehog to a variable
-
+var hedge = animals[1]
 //Section 6
 
 //6.1 Create an array of 5 vegetables
